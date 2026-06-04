@@ -33,9 +33,9 @@ This is a clean demonstration of using the normal-equations / least-squares appr
 | Figure | Contents |
 |--------|----------|
 | **Figure 1** | Measured data vs. quadratic curve of best fit |
-<img width="705" height="461" alt="Screenshot 2026-06-04 111050" src="https://github.com/user-attachments/assets/4f147c15-06a0-463c-a437-f0187c998c8e" />
-
 | **Figure 2** | Low-range linear fit (0–70 °C), high-range linear fit (70–100 °C), and measured data |
+
+<img width="705" height="461" alt="Screenshot 2026-06-04 111050" src="https://github.com/user-attachments/assets/4f147c15-06a0-463c-a437-f0187c998c8e" />
 <img width="669" height="432" alt="Screenshot 2026-06-04 111059" src="https://github.com/user-attachments/assets/500fe0c6-c2c2-4bbf-b292-6bd49a79c4fb" />
 
 
